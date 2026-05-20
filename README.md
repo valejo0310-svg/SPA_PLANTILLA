@@ -47,7 +47,7 @@ project/
 ## Instalar JSON Server
 
 ```bash id="j03mgn"
-npm install -g json-server
+sudo npm install -g json-server
 ```
 
 ---
